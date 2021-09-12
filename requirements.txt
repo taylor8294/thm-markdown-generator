@@ -1,0 +1,4 @@
+#
+#
+requests==2.26.0
+markdownify==0.9.4
